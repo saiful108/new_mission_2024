@@ -1,0 +1,40 @@
+.bg_header_image{
+    width:1320px;
+    height: 600px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+   background-image:url(/image/Banner\ Image.png);
+   
+}
+
+
+.bg_linner{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    padding: 200px 400px;
+    /* width:1320px;
+    height: 600px; */
+  
+}
+.happy{
+    
+    font-size: 32px;
+    color: white;
+    text-align: center;
+font-family: Merriweather;
+
+}
+.new_year{
+margin-top: -20px;
+color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; 
+}
